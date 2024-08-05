@@ -1,5 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+// create jsconfig.json file to create absolute imports
+//also create a file in each folder that is meant for the imports and exports
+
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (

@@ -1,0 +1,1 @@
+place functions that are reusable across different components/pages

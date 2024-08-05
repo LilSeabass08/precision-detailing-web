@@ -1,0 +1,1 @@
+used to place files that manage state of the application. reducers, actions, sagas are files for this folder

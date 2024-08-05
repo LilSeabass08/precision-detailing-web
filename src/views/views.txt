@@ -1,0 +1,1 @@
+contains the pages/routes for the site. code in this folder is strictly for the specific pages

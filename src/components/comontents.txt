@@ -1,0 +1,3 @@
+use the components folder to store files like buttons, forms, avatars, other inputs that can be used across multiple pages
+
+shared components to use across whole project
